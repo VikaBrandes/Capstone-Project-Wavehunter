@@ -1,0 +1,28 @@
+.navbar {
+  position: fixed;
+  background-image: radial-gradient(
+    circle 248px at center,
+    #16d9e3 0%,
+    #30c7ec 47%,
+    #46aef7 100%
+  );
+  color: ivory;
+  text-shadow: 0 0 5px ivory;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0 0 5px black;
+  border: 0.5px solid ivory;
+  font-size: 22px;
+  padding: 1rem;
+}
+.bottom-tab-nav {
+  border-top: 0.5px solid ivory;
+}
+
+.bottom-tab-label {
+  font-size: 1px;
+  color: ivory;
+}

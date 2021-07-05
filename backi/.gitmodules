@@ -1,0 +1,3 @@
+[submodule "Wavehunter"]
+	path = Wavehunter
+	url = git@github.com:VikaBrandes/Wavehunter.git
